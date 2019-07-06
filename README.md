@@ -41,6 +41,6 @@ Music Genres :
 * Kmeans Clustering
 
 #### Deep Learning Based Approach
-Apply Convolution Neural Network on Mel-Spectrograms.
+Apply Convolution Neural Network on Mel-Spectrograms
 
-[Report](Music_Genre_Recognition_Ayush_Louis_Mohamed_ML_Project_Report.pdf)
+[Project Report](Music_Genre_Recognition_Ayush_Louis_Mohamed_ML_Project_Report.pdf)
