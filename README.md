@@ -13,9 +13,6 @@ Music Genres :
 * Electronic
 * Instrumental
 
-[Report](Music_Genre_Recognition_Ayush_Louis_Mohamed_ML_Project_Report.pdf)
-
-
 #### Supervised Learning Based Approach
 
 ##### Audio Features
@@ -45,3 +42,5 @@ Music Genres :
 
 #### Deep Learning Based Approach
 Apply Convolution Neural Network on Mel-Spectrograms.
+
+[Report](Music_Genre_Recognition_Ayush_Louis_Mohamed_ML_Project_Report.pdf)
