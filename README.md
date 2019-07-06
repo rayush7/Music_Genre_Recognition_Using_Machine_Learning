@@ -1,7 +1,7 @@
 # Music_Genre_Recognition_Using_Machine_Learning
 This repository contains code for Mahine Learning course project on Music Genre Recognition using Machine Learning for the course [Machine Learning](http://fragkiskos.me/teaching/ML-F18/) offered at Ecole CentraleSupelec during Fall 2018 by [Dr. Fragkiskos Malliaros](http://fragkiskos.me/).
 
-Dataset Used : [Free Music Archive](https://arxiv.org/abs/1612.01840) (Small : 8 balanced music genres)
+Dataset Used : [Free Music Archive](https://arxiv.org/abs/1612.01840) (Small Size : 8 balanced music genres)
 
 Music Genres :
 * Hip Hop
