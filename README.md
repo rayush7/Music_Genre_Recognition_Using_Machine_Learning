@@ -5,7 +5,6 @@ Dataset Used : [Free Music Archive](https://arxiv.org/abs/1612.01840)
 
 [Report](Music_Genre_Recognition_Ayush_Louis_Mohamed_ML_Project_Report.pdf)
 
-```
 
 #### Supervised Learning Based Approach
 
@@ -14,19 +13,10 @@ Dataset Used : [Free Music Archive](https://arxiv.org/abs/1612.01840)
 
 ##### ML Algorithms Applied
 
-```
-
-```
 #### Unsupervised Learning Based Approach
 
 ##### ML Algorithms
 * Principal Component Analysis
 * T-SNE
 
-```
-
-```
 #### Deep Learning Based Approach
-
-
-```
